@@ -2,14 +2,8 @@
 ## Whilst this project is predominantly used for my learning. If this is of use to some people have my notes
 
 from cryptography.fernet import Fernet ## Used to make Salt Key
-from Crypto.Random import get_random_bytes ## Random Bytes
-from Crypto.Protocol.KDF import PBKDF2 ## Brute Force Protection
-from Crypto.Cipher import AES ## AES
-from Crypto.Util.Padding import pad, unpad ## Padding of Data
 import os ## Used to Clear Console
 import time ## Used to tidy up the Quit Command
-import customtkinter as ctk
-from tkinter import filedialog
 
 
 class password_manager:
