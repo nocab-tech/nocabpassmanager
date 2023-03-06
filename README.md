@@ -1,7 +1,7 @@
 # nocab Password Manager
 
 ## About
-This project was started as way to practise and learn basic cryptography using Python as well as a way to learn how to use GitHub. This project currently (Version 0.0.2) uses Cryptography Python Module mainly Fernet. I intend to use PBKDF2 to add brute force protection as well as Customtkinter and tkinter to create a user friendly GUI to add ease of use and to learn those technologies too.
+This project was started as way to practise and learn basic cryptography using Python as well as a way to learn how to use GitHub. This project currently (Version 0.0.2) uses Cryptography.Fernet Python Module. I intend to use PBKDF2 to add brute force protection as well as Customtkinter and tkinter to create a user friendly GUI to add ease of use and to learn those technologies too.
 
 ## How does it work?
 
